@@ -5,7 +5,10 @@ var Examples = React.createClass({
   render :function(){
     return (
 
-      <h1>Example !</h1>
+      <div>
+        <h1>Example !</h1>
+        <p>Welcome to Examples page.</p>
+      </div>
       );
 }
 });
